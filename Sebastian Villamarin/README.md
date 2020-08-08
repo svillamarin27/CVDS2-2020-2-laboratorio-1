@@ -1,7 +1,7 @@
 # *Sebastián Villamarín Rodríguez*
 
 ### Vida Académica
-Soy estudiante de [**_Ingeniería de Sistemas_**](https://www.escuelaing.edu.co/es/programas/pregrado/Ingenier%C3%ADa+de+Sistemas) en la [**_Escuela Colombiana de Ingeniería Julio Garavito_**](https://www.escuelaing.edu.co/es/) ,tengo 20 años, voy en septimo semestre y el plan de estudios es el **14**. Este plan de estudios está compuesto por **51** asignaturas que corresponden a **158** créditos académicos, con un máximo de **18** créditos académicos por semestre, y una duración del programa de *nueve* o *diez* semestres, dependiendo de las bases que traiga el estudiante y de la dedicación a su proceso de formación.
+Soy estudiante de [**_Ingeniería de Sistemas_**](https://www.escuelaing.edu.co/es/programas/pregrado/Ingenier%C3%ADa+de+Sistemas) en la [**_Escuela Colombiana de Ingeniería Julio Garavito_**](https://www.escuelaing.edu.co/es/) ,tengo 20 años, voy en octavo semestre y el plan de estudios es el **14**. Este plan de estudios está compuesto por **51** asignaturas que corresponden a **158** créditos académicos, con un máximo de **18** créditos académicos por semestre, y una duración del programa de *nueve* o *diez* semestres, dependiendo de las bases que traiga el estudiante y de la dedicación a su proceso de formación.
 
 Las líneas énfasis del Programa son:
 - Ingeniería de software
