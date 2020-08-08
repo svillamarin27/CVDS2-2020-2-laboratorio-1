@@ -1,5 +1,4 @@
 ## Daniel Varón
----
 
 ### Estudiante de ingeniería de sistemas
 
@@ -8,7 +7,7 @@
 Materias que se esta curzando este semestre:
 1. Ciclos de vida del desarrollo de software (lab)
 2. Redes de computadores (lab)
-3. Ingles \4
+3. Ingles 4
 4. Fundamentos de desarrollo y gerencia de proyectos
 5. Cine, Literatura y Sociedad
 6. Gestión de metadatos, datos maestros y contenidos
