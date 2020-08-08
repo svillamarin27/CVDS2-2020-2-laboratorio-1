@@ -19,5 +19,8 @@ Pastiempos:
 * Dibujar
 * Escuchar musica
 * Cocinar
+* Viajar
 
 [Perfil Moodle](http://campusvirtual.escuelaing.edu.co/moodle/user/profile.php?id=16578)
+
+![Escuela Colombiana de Ingeniería Julio Garavito](https://carrerasuniversitarias.com.co/logos/original/logo-escuela-colombiana-de-ingenieria-julio-garavito.png)
